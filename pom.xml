@@ -28,7 +28,7 @@
   <groupId>abc.def</groupId>
   <artifactId>ghij</artifactId>
   <version>0.0.1</version>
-  <packaging>jar</packaging>
+  <packaging>war</packaging>
 
   <name>ghij</name>
   <url>http://maven.apache.org</url>
